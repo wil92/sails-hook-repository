@@ -1,0 +1,47 @@
+{
+  "name": "sails-hook-repository",
+  "version": "0.1.0",
+  "description": "Sails hook for work with database repositories",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wil92/sails-hook-repository"
+  },
+  "sails": {
+    "isHook": true
+  },
+  "scripts": {
+    "test": "babel-node node_modules/.bin/mocha --compilers js:babel-core/register --ui bdd test/bootstrap.test.js --recursive test/integration/"
+  },
+  "keywords": [
+    "repository",
+    "sails-hook",
+    "sails"
+  ],
+  "author": {
+    "name": "wil92",
+    "email": "ggjnez92@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "sails": "^1.0.2",
+    "sails-hook-orm": "^2.0.1",
+    "sails-mongo": "^1.0.1"
+  },
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "deasync": "^0.1.13",
+    "lodash": "^4.17.10"
+  },
+  "babel": {
+    "presets": [
+      "stage-3",
+      "latest"
+    ]
+  }
+}

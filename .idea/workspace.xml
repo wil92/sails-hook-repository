@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12c7d18e-6789-4f29-b44b-fdf0ebb93d16" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>conne</find>
+      <find>this</find>
+      <find>version</find>
+      <find>schema</find>
+      <find>connect</find>
+      <find>findOne</find>
+      <find>findAndModify</find>
+      <find>update</find>
+      <find>Collection.prototype.update</find>
+      <find>changeLog</find>
+      <find>change</find>
+      <find>config</find>
+      <find>.define</find>
+      <find>async</find>
+      <find>await</find>
+      <find>define</find>
+      <find>db</find>
+      <find>find</find>
+      <find>No model with</find>
+      <find>No model with that tableName</find>
+      <find>registerDatastore</find>
+      <find>registeredDryModels</find>
+      <find>initialize</find>
+      <find>options</find>
+      <find>wmds</find>
+      <find>up</find>
+      <find>down</find>
+      <find>mongodb</find>
+      <find>MongoClient</find>
+      <find>fixtureEnabled</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/node_modules/mongodb</dir>
+      <dir>$PROJECT_DIR$/node_modules/</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/integration/first.test.js" />
+        <option value="$PROJECT_DIR$/test/integration/base.test.js" />
+        <option value="$PROJECT_DIR$/test/app/api/migration/Bad000Migration.js" />
+        <option value="$PROJECT_DIR$/lib/dbMigration.js" />
+        <option value="$PROJECT_DIR$/lib/Migration.js" />
+        <option value="$PROJECT_DIR$/test/app/api/migration/First001Migration.js" />
+        <option value="$PROJECT_DIR$/test/app/api/migration/First000Migration.js" />
+        <option value="$PROJECT_DIR$/test/app/api/migration/First000Migration.js" />
+        <option value="$PROJECT_DIR$/test/app/api/migration/000RemoveAttributeMigration.js" />
+        <option value="$PROJECT_DIR$/api/models/User.js" />
+        <option value="$PROJECT_DIR$/node_modules/sails-mongo/lib/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/sails-hook-orm/index.js" />
+        <option value="$PROJECT_DIR$/lib/core.js" />
+        <option value="$PROJECT_DIR$/lib/constants/ShemaVersion.js" />
+        <option value="$PROJECT_DIR$/lib/constants/SchemaVersion.js" />
+        <option value="$PROJECT_DIR$/test/bootstrap.test.js" />
+        <option value="$PROJECT_DIR$/api/migrations/001RenameModelMigration.js" />
+        <option value="$PROJECT_DIR$/api/migrations/000RemoveAttributeMigration.js" />
+        <option value="$PROJECT_DIR$/lib/migration.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/test/integration/directory.test.js" />
+        <option value="$PROJECT_DIR$/CHANGELOG.md" />
+        <option value="$PROJECT_DIR$/.idea/.name" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3" />
+    <option name="y" value="32" />
+    <option name="width" value="1358" />
+    <option name="height" value="736" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="sails-hook-repository" type="cbb8eebc:String" user="sails-hook-repository" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sails-hook-repository" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sails-hook-repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.9.1" />
+    <property name="last.edited.regexp" value="sfsdaf..asdfasdf.asdfasdfMigration.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lib/constants" />
+      <recent name="$PROJECT_DIR$/test/app/api/migration" />
+      <recent name="$PROJECT_DIR$/test/app/api/migration" />
+      <recent name="$PROJECT_DIR$/test/integration" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/test/application" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.test">
+    <configuration name="bootstrap.test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/bootstrap.test.js" working-dir="$PROJECT_DIR$/test" />
+    <configuration name="User Authentication" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/integration/first.test.js</test-file>
+      <test-names>
+        <name value="User Authentication" />
+      </test-names>
+    </configuration>
+    <configuration name="test" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options>node_modules/babel-cli/bin/babel-node.js</node-options>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options>test/bootstrap.test.js</extra-mocha-options>
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/test/integration</test-directory>
+      <recursive>true</recursive>
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.test" />
+      <item itemvalue="Mocha.User Authentication" />
+      <item itemvalue="Node.js.bootstrap.test.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.bootstrap.test.js" />
+        <item itemvalue="Mocha.User Authentication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12c7d18e-6789-4f29-b44b-fdf0ebb93d16" name="Default" comment="" />
+      <created>1530290873229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530290873229</updated>
+      <workItem from="1530290874822" duration="19767000" />
+      <workItem from="1530465172685" duration="20418000" />
+      <workItem from="1530538120651" duration="15961000" />
+      <workItem from="1530643029226" duration="9479000" />
+      <workItem from="1530726971281" duration="19637000" />
+      <workItem from="1530792249093" duration="24289000" />
+      <workItem from="1530837787955" duration="11108000" />
+      <workItem from="1530877576219" duration="9350000" />
+      <workItem from="1531164293254" duration="671000" />
+      <workItem from="1534180833922" duration="682000" />
+      <workItem from="1534186064492" duration="3509000" />
+      <workItem from="1535293084763" duration="4321000" />
+      <workItem from="1535302698770" duration="689000" />
+      <workItem from="1535323902822" duration="598000" />
+      <workItem from="1535359264874" duration="597000" />
+      <workItem from="1535382258524" duration="328000" />
+      <workItem from="1535382613512" duration="9000" />
+      <workItem from="1535382646266" duration="4031000" />
+      <workItem from="1535500621125" duration="1584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test - 2018.07.06 at 09h 09m 16s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.07.06 at 09h 11m 11s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.07.06 at 09h 13m 24s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.07.06 at 09h 14m 37s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.07.06 at 09h 16m 39s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.07.06 at 09h 18m 10s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.08.26 at 12h 19m 53s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.08.26 at 12h 20m 25s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.08.26 at 12h 21m 12s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test - 2018.08.26 at 12h 59m 40s.xml">
+      <configuration name="test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="147028000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3" y="32" width="1358" height="736" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17827715" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5255102" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4129693" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4489796" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293718" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/index.js</url>
+          <line>57</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/index.js</url>
+          <line>92</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="35" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>self.schema.version</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sails.config.datastores[adapter].database</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>`mongodb://${sails.config.datastores[adapter].host}:${sails.config.datastores[adapter].port}`</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>`mongodb://${sails.config.datastores[adapter].host}:${sails.config.datastores[adapter].port}</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sails.config.datastores[adapter]</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sails.config.datastores[adapter].adapter</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sails.adapters[sails.config.datastores[adapter].adapter]</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sails.adapters[sails.config.datastores[adapter].adapter].mongodb</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sails.adapters[sails.config.datastores[adapter].adapter].datastores[adapter]</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/sails-mongo/README.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails-mongo/lib/connection.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails-mongo/lib/adapter.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails/README.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails-mongo/node_modules/async/README.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails-mongo/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/async/README.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/async/CHANGELOG.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/async/dist/async.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails-hook-orm/index.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/machine/index.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails-mongo/lib/private/constants/dry-orm.input.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails-mongo/lib/private/constants/query.input.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails-mongo/lib/private/constants/connection.input.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/machine/lib/private/help-build-machine.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/machine/lib/build.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails-mongo/lib/private/machines/find-records.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/waterline/lib/waterline/utils/system/datastore-builder.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/waterline-schema/lib/waterline-schema.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails-mongo/lib/private/build-std-adapter-method.js" />
+    <entry file="file://$PROJECT_DIR$/api/models/SchemaVersion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/core.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/waterline/lib/waterline.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails-mongo/lib/index.js" />
+    <entry file="file://$PROJECT_DIR$/api/models/User.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/migration.js" />
+    <entry file="file://$PROJECT_DIR$/api/migrations/Bad000Migration.js" />
+    <entry file="file://$PROJECT_DIR$/api/migrations/001RenameModelMigration.js" />
+    <entry file="file://$PROJECT_DIR$/api/migrations/000RemoveAttributeMigration.js" />
+    <entry file="file://$PROJECT_DIR$/test/bootstrap.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/babel-cli/README.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/babel-cli/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/array-flatten/README.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/array-flatten/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails/LICENSE.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails/MODULES.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails/CONTRIBUTING.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails/CODE-OF-CONDUCT.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/sails/CHANGELOG.md" />
+    <entry file="file://$PROJECT_DIR$/LICENSE" />
+    <entry file="file://$PROJECT_DIR$/test/integration/base.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/integration/directory.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.name" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
